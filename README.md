@@ -1,6 +1,6 @@
 # MapReduce-based-Mini-HIVE 
 
-## Abstarct
+## Abstract
 Mini-Hive is an SQL based engine which gives an SQL like interface to query data stored in various databases and file systems that integrate with Hadoop.
 It uses the Map Reduce Programming model for the same. MapReduce is a framework using which we can write applications to process huge amounts of data, in parallel, on large clusters of commodity hardware in a reliable manner.
 
